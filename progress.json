@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:29:09.090Z",
+  "generated_at": "2026-10-21T15:36:02.275Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -329,6 +329,19 @@
       "last_pushed_at": "2026-10-21T15:29:08.145Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-10-21T15:36:01.470Z",
+      "last_pushed_at": "2026-10-21T15:36:01.470Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
