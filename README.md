@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 23 problems · 0 labs · 12 math
+**36** solved · 24 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-20 | [solution](problems/0329-matrix-rank) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-12 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-21 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-24 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-24 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-24 | [solution](problems/0201-qr-decomposition) |
 
