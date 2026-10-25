@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 28 problems · 0 labs · 13 math
+**42** solved · 29 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-25 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-10-19 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-24 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-12 | [solution](problems/0004-calculate-mean-by-row-or-column) |
