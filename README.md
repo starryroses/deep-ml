@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 37 problems · 3 labs · 15 math
+**56** solved · 37 problems · 3 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-20 | [solution](math/0035-matrix-calculus-identities) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-20 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-20 | [solution](math/0003-neural-network-derivatives) |
+| [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-29 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-13 | [solution](math/0014-orthogonality-and-projections) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-29 | [solution](math/0031-regularization-and-generalization) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-13 | [solution](math/0013-solving-linear-systems) |
