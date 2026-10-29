@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 37 problems · 3 labs · 17 math
+**58** solved · 37 problems · 3 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-29 | [solution](math/0039-bias-variance-decomposition) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-10-19 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-13 | [solution](math/0011-determinants-and-trace) |
+| [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-29 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-13 | [solution](math/0012-inverse-and-rank) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-10-24 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-20 | [solution](math/0035-matrix-calculus-identities) |
