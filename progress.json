@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:45:25.774Z",
+  "generated_at": "2026-10-31T09:53:47.955Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -740,6 +740,19 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-10-31T09:45:25.239Z",
       "last_pushed_at": "2026-10-31T09:45:25.239Z"
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-10-31T09:53:47.631Z",
+      "last_pushed_at": "2026-10-31T09:53:47.631Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
