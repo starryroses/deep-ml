@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:02:05.241Z",
+  "generated_at": "2026-11-02T14:50:16.980Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -844,6 +844,19 @@
       "last_pushed_at": "2026-11-02T13:01:23.829Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-11-02T14:50:15.802Z",
+      "last_pushed_at": "2026-11-02T14:50:15.802Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
