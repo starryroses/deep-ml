@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 44 problems · 3 labs · 20 math
+**68** solved · 45 problems · 3 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-21 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-21 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-21 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-02 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-19 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-24 | [solution](problems/0334-cholesky-decomposition) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-10-24 | [solution](problems/0847-dummy-classifier-baseline) |
