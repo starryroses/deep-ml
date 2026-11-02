@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 49 problems · 3 labs · 20 math
+**73** solved · 50 problems · 3 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-24 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-20 | [solution](problems/0329-matrix-rank) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-24 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-02 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-02 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-12 | [solution](problems/0312-quotient-rule-for-derivatives) |
