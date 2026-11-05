@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:22:07.780Z",
+  "generated_at": "2026-11-05T07:36:59.491Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1057,6 +1057,19 @@
       "path": "math/0070-goodhart-s-law-proxy-correlation-under-optimization",
       "first_solved_at": "2026-11-05T07:22:05.871Z",
       "last_pushed_at": "2026-11-05T07:22:05.871Z"
+    },
+    "problem:1333": {
+      "kind": "problem",
+      "id": "1333",
+      "title": "Goodhart Overoptimization Curve (Proxy vs Gold Reward)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1333",
+      "path": "problems/1333-goodhart-overoptimization-curve-proxy-vs-gold-reward",
+      "first_solved_at": "2026-11-05T07:36:57.502Z",
+      "last_pushed_at": "2026-11-05T07:36:57.502Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
