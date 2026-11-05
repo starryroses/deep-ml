@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:10:14.953Z",
+  "generated_at": "2026-11-05T12:26:17.695Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1094,6 +1094,19 @@
       "path": "problems/0508-quality-filtering-with-rejection-sampling",
       "first_solved_at": "2026-11-05T12:10:14.208Z",
       "last_pushed_at": "2026-11-05T12:10:14.208Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:486": {
+      "kind": "problem",
+      "id": "486",
+      "title": "Adaptive KL-Penalized Reward Shaping for RLHF",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/486",
+      "path": "problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf",
+      "first_solved_at": "2026-11-05T12:26:16.825Z",
+      "last_pushed_at": "2026-11-05T12:26:16.825Z",
       "language": "python",
       "lines": 20
     }
