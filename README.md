@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 62 problems · 3 labs · 24 math
+**90** solved · 63 problems · 3 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-11-05 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-21 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-11-05 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
+| [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-11-05 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-11-05 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-11-05 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-02 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |

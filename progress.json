@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:26:17.695Z",
+  "generated_at": "2026-11-05T12:41:41.885Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1109,6 +1109,19 @@
       "last_pushed_at": "2026-11-05T12:26:16.825Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1334": {
+      "kind": "problem",
+      "id": "1334",
+      "title": "Sycophancy Rate from Paired Belief Prompts",
+      "difficulty": "easy",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/1334",
+      "path": "problems/1334-sycophancy-rate-from-paired-belief-prompts",
+      "first_solved_at": "2026-11-05T12:41:41.116Z",
+      "last_pushed_at": "2026-11-05T12:41:41.116Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
