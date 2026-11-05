@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**93** solved · 66 problems · 3 labs · 24 math
+**94** solved · 67 problems · 3 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Goodhart Overoptimization Curve (Proxy vs Gold Reward)](https://www.deep-ml.com/problems/1333) | medium | 2026-11-05 | [solution](problems/1333-goodhart-overoptimization-curve-proxy-vs-gold-reward) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-11-03 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-31 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-11-05 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-03 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-24 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-20 | [solution](problems/0329-matrix-rank) |
