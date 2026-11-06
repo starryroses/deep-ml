@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:35:32.396Z",
+  "generated_at": "2026-11-06T09:44:16.888Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1265,6 +1265,19 @@
       "last_pushed_at": "2026-11-06T09:35:31.865Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:767": {
+      "kind": "problem",
+      "id": "767",
+      "title": "N-gram Overlap Contamination Detection",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/767",
+      "path": "problems/0767-n-gram-overlap-contamination-detection",
+      "first_solved_at": "2026-11-06T09:44:15.785Z",
+      "last_pushed_at": "2026-11-06T09:44:15.785Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
