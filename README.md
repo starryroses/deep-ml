@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 77 problems · 3 labs · 24 math
+**105** solved · 78 problems · 3 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-03 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-24 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-20 | [solution](problems/0329-matrix-rank) |
+| [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-11-10 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-11-09 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-24 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-11-06 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
