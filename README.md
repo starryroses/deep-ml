@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**108** solved · 80 problems · 3 labs · 25 math
+**109** solved · 81 problems · 3 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-10 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-12 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-11-10 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-11-05 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-21 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-24 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
