@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 82 problems · 3 labs · 25 math
+**111** solved · 83 problems · 3 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-11-10 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-11-02 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-24 | [solution](problems/0334-cholesky-decomposition) |
+| [Detecting Benchmark Contamination in Training Data](https://www.deep-ml.com/problems/507) | medium | 2026-11-11 | [solution](problems/0507-detecting-benchmark-contamination-in-training-data) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-10-24 | [solution](problems/0847-dummy-classifier-baseline) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-10-31 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-11-03 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
