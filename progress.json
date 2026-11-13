@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:03:23.747Z",
+  "generated_at": "2026-11-13T16:19:53.701Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1456,6 +1456,19 @@
       "path": "problems/0281-implement-polynomial-kernel-function",
       "first_solved_at": "2026-11-12T17:03:22.756Z",
       "last_pushed_at": "2026-11-12T17:03:22.756Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-11-13T16:19:51.765Z",
+      "last_pushed_at": "2026-11-13T16:19:51.765Z",
       "language": "python",
       "lines": 5
     }
