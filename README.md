@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**118** solved · 89 problems · 4 labs · 25 math
+**119** solved · 90 problems · 4 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-11-09 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-11-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Goodhart Overoptimization Curve (Proxy vs Gold Reward)](https://www.deep-ml.com/problems/1333) | medium | 2026-11-05 | [solution](problems/1333-goodhart-overoptimization-curve-proxy-vs-gold-reward) |
+| [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-11-14 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-05 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-05 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-11-12 | [solution](problems/0288-implement-grid-search) |
