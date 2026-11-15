@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:48:58.790Z",
+  "generated_at": "2026-11-15T16:59:07.997Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1523,6 +1523,19 @@
       "last_pushed_at": "2026-11-14T08:48:57.943Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:278": {
+      "kind": "problem",
+      "id": "278",
+      "title": "Implement Precision-Recall Curve",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/278",
+      "path": "problems/0278-implement-precision-recall-curve",
+      "first_solved_at": "2026-11-15T16:59:06.791Z",
+      "last_pushed_at": "2026-11-15T16:59:06.791Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
