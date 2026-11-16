@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 102 problems · 5 labs · 26 math
+**134** solved · 103 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Exact Match Benchmark Decontamination Check](https://www.deep-ml.com/problems/788) | easy | 2026-11-06 | [solution](problems/0788-exact-match-benchmark-decontamination-check) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-10-12 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-16 | [solution](problems/0016-feature-scaling-implementation) |
+| [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-11-16 | [solution](problems/1103-filter-rows-with-where) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-25 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-12 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-11-16 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
