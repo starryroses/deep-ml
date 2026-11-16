@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**130** solved · 99 problems · 5 labs · 26 math
+**131** solved · 100 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-21 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-11-02 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-11-05 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-11-16 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-21 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-11-05 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-05 | [solution](problems/0022-sigmoid-activation-function-understanding) |
