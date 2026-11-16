@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 106 problems · 5 labs · 26 math
+**138** solved · 107 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-05 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-11-16 | [solution](problems/1104-sort-results-with-order-by) |
 | [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-11-05 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
+| [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-11-16 | [solution](problems/1106-top-n-with-limit) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-16 | [solution](problems/1109-your-first-join) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-11-05 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-11-05 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
