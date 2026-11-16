@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**125** solved · 94 problems · 5 labs · 26 math
+**126** solved · 95 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-20 | [solution](problems/0329-matrix-rank) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-11-10 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-11-09 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-11-16 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-24 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-11-06 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-02 | [solution](problems/0080-normal-distribution-pdf-calculator) |
