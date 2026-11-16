@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:31:15.216Z",
+  "generated_at": "2026-11-16T14:38:46.297Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1597,6 +1597,19 @@
       "path": "problems/1131-clean-a-messy-dataset-dedup-standardize-impute",
       "first_solved_at": "2026-11-16T14:31:14.079Z",
       "last_pushed_at": "2026-11-16T14:31:14.079Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-11-16T14:38:44.917Z",
+      "last_pushed_at": "2026-11-16T14:38:44.917Z",
       "language": "python",
       "lines": 8
     }
