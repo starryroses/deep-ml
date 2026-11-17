@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:25:44.186Z",
+  "generated_at": "2026-11-17T18:30:48.090Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1779,6 +1779,19 @@
       "path": "problems/2217-filter-rows-with-where-then-groups-with-having",
       "first_solved_at": "2026-11-17T13:25:43.299Z",
       "last_pushed_at": "2026-11-17T13:25:43.299Z",
+      "language": "sql",
+      "lines": 8
+    },
+    "problem:2219": {
+      "kind": "problem",
+      "id": "2219",
+      "title": "COUNT(*), COUNT(column) and COALESCE on Missing Values",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/2219",
+      "path": "problems/2219-count-count-column-and-coalesce-on-missing-values",
+      "first_solved_at": "2026-11-17T18:30:46.621Z",
+      "last_pushed_at": "2026-11-17T18:30:46.621Z",
       "language": "sql",
       "lines": 8
     }
