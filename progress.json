@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:30:48.090Z",
+  "generated_at": "2026-11-17T18:34:00.839Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1794,6 +1794,19 @@
       "last_pushed_at": "2026-11-17T18:30:46.621Z",
       "language": "sql",
       "lines": 8
+    },
+    "problem:2330": {
+      "kind": "problem",
+      "id": "2330",
+      "title": "Keep Every Row with LEFT JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/2330",
+      "path": "problems/2330-keep-every-row-with-left-join",
+      "first_solved_at": "2026-11-17T18:33:59.624Z",
+      "last_pushed_at": "2026-11-17T18:33:59.624Z",
+      "language": "sql",
+      "lines": 5
     }
   }
 }
