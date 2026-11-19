@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**144** solved · 113 problems · 5 labs · 26 math
+**145** solved · 114 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-11-16 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-11-16 | [solution](problems/1102-select-specific-columns) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-05 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-19 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-05 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-11-16 | [solution](problems/1104-sort-results-with-order-by) |
 | [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-11-05 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
