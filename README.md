@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**146** solved · 115 problems · 5 labs · 26 math
+**147** solved · 116 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-10-31 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Keep Every Row with LEFT JOIN](https://www.deep-ml.com/problems/2330) | easy | 2026-11-17 | [solution](problems/2330-keep-every-row-with-left-join) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-11-05 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Label Rows with CASE WHEN](https://www.deep-ml.com/problems/2331) | easy | 2026-11-20 | [solution](problems/2331-label-rows-with-case-when) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-01 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-12 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-16 | [solution](problems/0014-linear-regression-using-normal-equation) |
