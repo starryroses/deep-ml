@@ -1,5 +1,5 @@
 def find_treasure(start_x: float) -> float:
-    """Minimizer of f(x) = x^4 - 3x^3 + 2."""
+    """Minimizer of f(x) = x^4 - 3x^3 + 2. NEWTONS UPDATE"""
     x = float(start_x)
     for _ in range(50):
         x_new = x - (4 * x - 9) / 4
