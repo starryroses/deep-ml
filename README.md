@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**148** solved · 117 problems · 5 labs · 26 math
+**149** solved · 118 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-12 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-11-10 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-11-05 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-21 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-21 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-24 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-03 | [solution](problems/0020-decision-tree-learning) |
