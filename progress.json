@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:57:41.282Z",
+  "generated_at": "2026-11-22T18:10:24.819Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1937,6 +1937,19 @@
       "last_pushed_at": "2026-11-22T17:57:38.875Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:1075": {
+      "kind": "problem",
+      "id": "1075",
+      "title": "Backpropagation Through a Scalar Chain Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1075",
+      "path": "problems/1075-backpropagation-through-a-scalar-chain-network",
+      "first_solved_at": "2026-11-22T18:10:22.266Z",
+      "last_pushed_at": "2026-11-22T18:10:22.266Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
