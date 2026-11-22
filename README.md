@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**150** solved · 119 problems · 5 labs · 26 math
+**151** solved · 120 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-11-06 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-11-10 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-11-02 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-22 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-24 | [solution](problems/0334-cholesky-decomposition) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-11-16 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Detecting Benchmark Contamination in Training Data](https://www.deep-ml.com/problems/507) | medium | 2026-11-11 | [solution](problems/0507-detecting-benchmark-contamination-in-training-data) |
