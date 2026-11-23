@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:10:24.819Z",
+  "generated_at": "2026-11-23T11:21:58.665Z",
   "items": {
     "problem:312": {
       "kind": "problem",
@@ -1950,6 +1950,19 @@
       "last_pushed_at": "2026-11-22T18:10:22.266Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:1076": {
+      "kind": "problem",
+      "id": "1076",
+      "title": "Backpropagation Gradients for a Dense Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1076",
+      "path": "problems/1076-backpropagation-gradients-for-a-dense-layer",
+      "first_solved_at": "2026-11-23T11:21:56.711Z",
+      "last_pushed_at": "2026-11-23T11:21:56.711Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
