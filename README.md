@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**159** solved · 128 problems · 5 labs · 26 math
+**160** solved · 129 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -124,6 +124,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-11-06 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-02 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-23 | [solution](problems/0313-numerical-gradient-checking) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-27 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-02 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-10-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-10 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
