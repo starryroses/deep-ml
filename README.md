@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**162** solved · 131 problems · 5 labs · 26 math
+**163** solved · 132 problems · 5 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-11-16 | [solution](problems/1104-sort-results-with-order-by) |
 | [Sycophancy Rate from Paired Belief Prompts](https://www.deep-ml.com/problems/1334) | easy | 2026-11-05 | [solution](problems/1334-sycophancy-rate-from-paired-belief-prompts) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-27 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
+| [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-11-27 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-27 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-11-16 | [solution](problems/1106-top-n-with-limit) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-16 | [solution](problems/1109-your-first-join) |
